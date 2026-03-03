@@ -1,5 +1,5 @@
 Title: Resume
-Date: 02-03-2026
+Date: 2026-03-02
 Category: Home
 Slug: resume
 Status: published
