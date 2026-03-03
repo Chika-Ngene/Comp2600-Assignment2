@@ -1,35 +1,10 @@
-<!DOCTYPE html>
-<html lang="english">
-        <head>
-                        <meta charset="utf-8" />
-                        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-                        <meta name="generator" content="Pelican" />
-                        <title>Comp 2600 Assignment 2</title>
-                        <link rel="stylesheet" href="/theme/css/main.css" />
-        </head>
+Title: Resume
+Date: 02-03-2026
+Category: Home
+Slug: resume
+Status: published
 
-        <body id="index" class="home">
-                <header id="banner" class="body">
-                        <h1><a href="/">Comp 2600 Assignment 2</a></h1>
-                        <nav><ul>
-                                                <li><a href="/category/home.html">Home</a></li>
-                        </ul></nav>
-                </header><!-- /#banner -->
-
-                <aside id="featured" class="body">
-                    <article>
-                        <h1 class="entry-title"><a href="/resume.html">Resume</a></h1>
-<footer class="post-info">
-        <abbr class="published" title="2026-02-03T00:00:00-06:00">
-                Published: Tue 03 February 2026
-        </abbr>
-
-                <address class="vcard author">
-                        By                                 <a class="url fn" href="/author/chikamnaele-ngene.html">Chikamnaele Ngene</a>
-                </address>
-        <p>In <a href="/category/home.html">Home</a>.</p>
-        
-</footer><!-- /.post-info --><style>
+<style>
     .resume { max-width: 900px; margin: 0 auto; }
     .resume h1 { margin-bottom: 0.2rem; }
     .resume .meta { margin-top: 0; line-height: 1.4; }
@@ -156,7 +131,7 @@ Robotics researcher specializing in Vision-Language-Action (VLA) models and robo
 
 <h2> Skills </h2>
 Python, C/C++, Linux (Ubuntu), ROS/ROS2, PyTorch, NVIDIA Isaac Sim, MATLAB<br/>
-<div><span class="label">Languages:</span>English (Fluent), French (Native)</div>
+<div><span class="label">Languages:</span> English (Fluent), French (Native)</div>
 
 <h2> References </h2>
 
@@ -174,18 +149,4 @@ Python, C/C++, Linux (Ubuntu), ROS/ROS2, PyTorch, NVIDIA Isaac Sim, MATLAB<br/>
   Senior Research Scientist, Computer Vision Group<br/>
   University of Manitoba<br/>
   <span class="label">Email:</span> daisys@umanitoba.com
-</div>                    </article>
-                </aside><!-- /#featured -->
-                <section id="extras" class="body">
-                </section><!-- /#extras -->
-
-                <footer id="contentinfo" class="body">
-                        <address id="about" class="vcard body">
-                                Proudly powered by <a rel="nofollow" href="https://getpelican.com/">Pelican</a>, which takes great advantage of <a rel="nofollow" href="https://www.python.org/">Python</a>.
-                        </address><!-- /#about -->
-
-                        <p>The theme is by <a rel="nofollow" href="https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
-                </footer><!-- /#contentinfo -->
-
-        </body>
-</html>
+</div>
