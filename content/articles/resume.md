@@ -144,9 +144,13 @@ Python, C/C++, Linux (Ubuntu), ROS/ROS2, PyTorch, NVIDIA Isaac Sim, MATLAB<br/>
 
 <br/>
 
-<div class="reference">
+**Daisy Sweets**  
+Senior Research Scientist, Computer Vision Group  
+University of Manitoba  
+**Email:** daisys@umanitoba.com
+<!-- <div class="reference">
   <div class="role">Daisy Sweets</div>
   Senior Research Scientist, Computer Vision Group<br/>
   University of Manitoba<br/>
   <span class="label">Email:</span> daisys@umanitoba.com
-</div>
+</div> -->
