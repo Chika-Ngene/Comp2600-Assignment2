@@ -1,1 +1,0 @@
-# Comp2600-Assignment2
