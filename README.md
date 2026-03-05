@@ -7,10 +7,8 @@ By following these instructions, you will be able to install Pelican, generate a
 
 ## Prerequisites
 Before beginning, ensure that you have the following:
-- [Python 3.10 or higher installed](https://www.python.org/) 
 - [Visual Studio Code](https://code.visualstudio.com/download) (or another text editor)
 - [A GitHub account](https://github.com/)
-- [Git installed](https://git-scm.com/install/)
 - Basic familiarity with command-line navigation
 
 Etter encourages using distributed version control systems like Git to help ease collaboration and to ensure synchronization of code and documentation. By installing Git before beginning this process, you ensure that your content can be versioned, backed up, and published consistently.
