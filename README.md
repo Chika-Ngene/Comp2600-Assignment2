@@ -172,6 +172,10 @@ In *Modern technical Writing*, we are told that static websites offer speed, sim
 **I updated my Markdown file, but the published website did not change. Why?**<br>
 *You must regenerate and redeploy the site after making changes. Static site generators do not update automatically. Run **pelican content -s publishconf.py**, then republish using **ghp-import**. Additionally, GitHub Pages may take several minutes to redeploy. You can monitor deployment under the **“Actions”** tab. If changes still do not appear, clear your browser cache and hard reload the page.*
 
+**Why is the README in the same repository as the static website code?**<br>
+*Keeping the README in the same repository as the website source code ensures that the documentation and the project remain synchronized. When documentation is stored alongside the code it describes, updates to the project can be documented immediately, reducing the risk that instructions become outdated. Andrew Etter emphasizes that modern technical documentation should live with the source code rather than in a separate system. This approach encourages collaboration because contributors only need to access a single repository to view both the code and its documentation. It also improves efficiency for users and developers, since all necessary materials for understanding and maintaining the project are available in one place.*
+
+
 ## Credits
 This webiste was developed using Pelican and was hosted using GitHub Pages.
 
