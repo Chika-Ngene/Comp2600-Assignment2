@@ -10,7 +10,7 @@ Before beginning, ensure that you have the following:
 - [Visual Studio Code](https://code.visualstudio.com/download) (or another text editor)
 - [A GitHub account](https://github.com/)
 - Basic familiarity with command-line navigation
-- Basic knowledge of Markdown (A tutorial could be found [here](https://www.markdowntutorial.com/)!)
+- Basic knowledge of Markdown
 
 ## Instructions
 The following are step-by-step instructions to help you get your site upp and running.
@@ -163,6 +163,7 @@ In *Modern technical Writing*, we are told that static websites offer speed, sim
 - [GitHub Pages Documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 - [Pelican Site Publication](https://docs.getpelican.com/en/latest/publish.html#site-generation)
 - [Markdown Live Guide](https://markdownlivepreview.com/)
+- [Markdown Tutorial](https://www.markdowntutorial.com/)
 
 ## FAQ
 **Why use Markdown instead of raw HTML?**<br>
