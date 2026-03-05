@@ -179,6 +179,6 @@ Other sources of content used are:
 - [Overleaf Resume Template](https://www.overleaf.com/latex/templates/mbzuai-resume-template/xfqbdzbfdkkf.pdf)
 - [README Template](https://github.com/PurpleBooth/a-good-readme-template)
 
-Peer Review Contributors:<br>
-- Chinyere Ajufoh-Obi (Megaminds Group)
-- Paul Watuwa (Megaminds Group)
+Peer Review Contributors (Megaminds Group):<br>
+- Chinyere Ajufoh-Obi
+- Paul Watuwa
