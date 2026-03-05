@@ -11,8 +11,6 @@ Before beginning, ensure that you have the following:
 - [A GitHub account](https://github.com/)
 - Basic familiarity with command-line navigation
 
-Etter encourages using distributed version control systems like Git to help ease collaboration and to ensure synchronization of code and documentation. By installing Git before beginning this process, you ensure that your content can be versioned, backed up, and published consistently.
-
 ## Instructions
 The following are step-by-step instructions to help you get your site upp and running.
 
@@ -39,6 +37,8 @@ The following are step-by-step instructions to help you get your site upp and ru
     git --version
     ```
 6. Confirm that Git is installed successfully.
+
+Etter encourages using distributed version control systems like Git to help ease collaboration and to ensure synchronization of code and documentation. By installing Git before beginning this process, you ensure that your content can be versioned, backed up, and published consistently.
 
 ### Step 3: Create a GitHub Repository
 1. Log in to your GitHub account. If you do not have one, create one
