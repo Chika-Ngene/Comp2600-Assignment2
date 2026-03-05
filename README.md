@@ -10,6 +10,7 @@ Before beginning, ensure that you have the following:
 - [Visual Studio Code](https://code.visualstudio.com/download) (or another text editor)
 - [A GitHub account](https://github.com/)
 - Basic familiarity with command-line navigation
+- Basic knowledge of Markdown (A tutorial could be found [here](https://www.markdowntutorial.com/)!)
 
 ## Instructions
 The following are step-by-step instructions to help you get your site upp and running.
@@ -27,6 +28,8 @@ The following are step-by-step instructions to help you get your site upp and ru
 6. Confirm that the version displayed is 3.10 or higher
 
 ### Step 2: Install Git
+Etter encourages using distributed version control systems like Git to help ease collaboration and to ensure synchronization of code and documentation. By installing Git before beginning this process, you ensure that your content can be versioned, backed up, and published consistently.
+
 1. Navigate to the [git install site](https://git-scm.com/install/)
 2. Download the installer for your operating ssytem
 3. Run the installer using the default settings
@@ -37,8 +40,6 @@ The following are step-by-step instructions to help you get your site upp and ru
     git --version
     ```
 6. Confirm that Git is installed successfully.
-
-Etter encourages using distributed version control systems like Git to help ease collaboration and to ensure synchronization of code and documentation. By installing Git before beginning this process, you ensure that your content can be versioned, backed up, and published consistently.
 
 ### Step 3: Create a GitHub Repository
 1. Log in to your GitHub account. If you do not have one, create one
